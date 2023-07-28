@@ -1,5 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iwashitech)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iwashitech)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iwashitech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
